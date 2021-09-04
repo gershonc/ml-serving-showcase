@@ -7,13 +7,12 @@ To run the service:
 To test the service go to the following URL: http://127.0.0.1:5000/predict
 
 Here is an input for example (JSON format):
-```yaml
-{
+```json
 [
     {"Age": 85, "Sex": "male", "Embarked": "S", "Pclass": 2},
     {"Age": 85, "Sex": "female", "Embarked": "S", "Pclass": 2},
     {"Age": 85, "Sex": "male", "Embarked": "S", "Pclass": 1}
 ]
-}
+```
 ![alt text](https://github.com/gershonc/ml-serving-showcase/blob/main/img/postman_serving_ml.png?raw=true)
 
