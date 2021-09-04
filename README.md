@@ -14,5 +14,7 @@ Here is an input for example (JSON format):
     {"Age": 85, "Sex": "male", "Embarked": "S", "Pclass": 1}
 ]
 ```
+
+Here is an example of the API on POSTMAN:
 ![alt text](https://github.com/gershonc/ml-serving-showcase/blob/main/img/postman_serving_ml.png?raw=true)
 
