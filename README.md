@@ -13,6 +13,7 @@ Here is an input for example (JSON format):
     {"Age": 85, "Sex": "female", "Embarked": "S", "Pclass": 2},
     {"Age": 85, "Sex": "male", "Embarked": "S", "Pclass": 1}
 ]
+'''
 
 ![alt text](https://github.com/gershonc/ml-serving-showcase/blob/main/img/postman_serving_ml.png?raw=true)
 
