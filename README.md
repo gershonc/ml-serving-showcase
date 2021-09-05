@@ -9,9 +9,9 @@ To test the service go to the following URL: http://127.0.0.1:5000/predict
 Here is an input for example (JSON format):
 ```json
 [
-    {"Age": 85, "Sex": "male", "Embarked": "S", "Pclass": 2},
-    {"Age": 85, "Sex": "female", "Embarked": "S", "Pclass": 2},
-    {"Age": 85, "Sex": "male", "Embarked": "S", "Pclass": 1}
+    {"Age": 85, "Sex": "male", "Embarked": "S", "Pclass": 3},
+    {"Age": 63, "Sex": "female", "Embarked": "C", "Pclass": 2},
+    {"Age": 15, "Sex": "male", "Embarked": "Q", "Pclass": 1}
 ]
 ```
 
