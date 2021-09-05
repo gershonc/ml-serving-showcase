@@ -3,7 +3,6 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/pandas-profiling)](https://pypi.org/project/octopus-ml/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 [![Binder](https://mybinder.org/badge.svg)](https://hub.gke2.mybinder.org/user/gershonc-octopus-ml-k5of97xu/tree)
-[![Downloads](https://pepy.tech/badge/ml-serving-showcase)](ml-serving-showcase)
 
 Implementation of a ML Model Serving with Flask, the model is LGBM trained on Kaggle titanic data.
 To run the service:
