@@ -2,7 +2,7 @@
 
 Implementation of a ML Model Serving with Flask, the model is LGBM trained on Kaggle titanic data.
 To run the service:
-> python .\ml_serving.py
+> python ml_serving.py
 
 To test the service go to the following URL: http://127.0.0.1:5000/predict
 
